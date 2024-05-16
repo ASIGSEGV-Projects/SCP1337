@@ -12,6 +12,6 @@
 /dataSources/
 /dataSources.local.xml
 # Compile time
-/AutoAZ5/bin/*
+/SCP1337/bin/*
 .idea/*
-/AutoAZ5/obj/*
+/SCP1337/obj/*
