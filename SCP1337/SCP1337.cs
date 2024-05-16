@@ -17,7 +17,7 @@ namespace SCP1337
         public override string Name => "SCP-1337"; // The name of the plugin
         public override string Prefix => "scp1337"; // As appears in configuration file
         public override string Author => "ASIGSEGV"; // Author name
-        public override Version Version => new Version(1, 0, 0); // Version
+        public override Version Version => new Version(1, 0, 1); // Version
         public override PluginPriority Priority { get; } = PluginPriority.Default;
         public override Version RequiredExiledVersion { get; } = new Version(8, 8, 1); // Public Plugin Requirement
 
